@@ -13,7 +13,7 @@ sites:
     url: https://www.google.com
 
 status-website:
-  baseUrl: /my-services-monitor
+  cname: status.vovastelmashchuk.site
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Vova Stelmashchuk uptime
   introTitle: "**Upptime** of the Vova Stelmashchuk web service"
