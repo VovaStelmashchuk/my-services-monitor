@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1565,
-    "timeDay": 2373,
-    "timeWeek": 1546,
-    "timeMonth": 1438,
-    "timeYear": 1565,
+    "time": 1566,
+    "timeDay": 1994,
+    "timeWeek": 1635,
+    "timeMonth": 1444,
+    "timeYear": 1566,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://androidstory.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/androidstory.dev.ico",
     "slug": "android-story",
-    "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "77.56%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "99.26%",
-    "uptimeYear": "99.45%",
-    "time": 906,
-    "timeDay": 1297,
-    "timeWeek": 1176,
-    "timeMonth": 961,
-    "timeYear": 906,
+    "status": "down",
+    "uptime": "99.48%",
+    "uptimeDay": "78.59%",
+    "uptimeWeek": "96.94%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.48%",
+    "time": 941,
+    "timeDay": 1376,
+    "timeWeek": 1256,
+    "timeMonth": 1005,
+    "timeYear": 941,
     "dailyMinutesDown": {
-      "2024-11-13": 324
+      "2024-11-13": 309
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 384,
-    "timeDay": 531,
-    "timeWeek": 322,
-    "timeMonth": 421,
-    "timeYear": 384,
+    "time": 377,
+    "timeDay": 315,
+    "timeWeek": 262,
+    "timeMonth": 411,
+    "timeYear": 377,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 101,
-    "timeWeek": 128,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 108,
+    "timeDay": 92,
+    "timeWeek": 98,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   }
 ]
