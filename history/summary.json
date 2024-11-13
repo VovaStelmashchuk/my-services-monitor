@@ -22,18 +22,20 @@
     "url": "https://androidstory.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/androidstory.dev.ico",
     "slug": "android-story",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 449,
-    "timeWeek": 603,
-    "timeMonth": 652,
-    "timeYear": 672,
-    "dailyMinutesDown": {}
+    "time": 730,
+    "timeDay": 1975,
+    "timeWeek": 965,
+    "timeMonth": 741,
+    "timeYear": 730,
+    "dailyMinutesDown": {
+      "2024-11-13": 0
+    }
   },
   {
     "name": "Nest2d",
