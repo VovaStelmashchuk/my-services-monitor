@@ -22,17 +22,17 @@
     "url": "https://androidstory.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/androidstory.dev.ico",
     "slug": "android-story",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "97.33%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.93%",
-    "time": 784,
-    "timeDay": 1779,
-    "timeWeek": 1151,
-    "timeMonth": 819,
-    "timeYear": 784,
+    "time": 786,
+    "timeDay": 1625,
+    "timeWeek": 1127,
+    "timeMonth": 820,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2024-11-13": 39
     }
