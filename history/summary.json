@@ -4,19 +4,19 @@
     "url": "https://mixdrinks.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mixdrinks.org.ico",
     "slug": "mix-drinks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1564,
-    "timeDay": 946,
-    "timeWeek": 1557,
-    "timeMonth": 1522,
-    "timeYear": 1564,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1569,
+    "timeDay": 1242,
+    "timeWeek": 1587,
+    "timeMonth": 1531,
+    "timeYear": 1569,
     "dailyMinutesDown": {
-      "2024-11-21": 0
+      "2024-11-21": 10
     }
   },
   {
@@ -32,7 +32,7 @@
     "uptimeYear": "93.99%",
     "time": 1391,
     "timeDay": 773,
-    "timeWeek": 1509,
+    "timeWeek": 1502,
     "timeMonth": 1440,
     "timeYear": 1391,
     "dailyMinutesDown": {
