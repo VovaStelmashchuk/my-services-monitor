@@ -4,9 +4,9 @@
     "url": "https://mixdrinks.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mixdrinks.org.ico",
     "slug": "mix-drinks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2295,
     "timeMonth": 1861,
     "timeYear": 1696,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-14": 0
+    }
   },
   {
     "name": "AndroidStory",
@@ -26,7 +28,7 @@
     "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.98%",
+    "uptimeMonth": "89.14%",
     "uptimeYear": "95.08%",
     "time": 1355,
     "timeDay": 101,
