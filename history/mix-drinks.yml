@@ -1,7 +1,7 @@
 url: https://mixdrinks.org/
-status: up
-code: 200
-responseTime: 6603
-lastUpdated: 2025-01-13T16:09:43.296Z
+status: down
+code: 502
+responseTime: 3682
+lastUpdated: 2025-01-13T16:35:50.346Z
 startTime: 2024-10-03T20:47:43.819Z
 generator: Upptime <https://github.com/upptime/upptime>
