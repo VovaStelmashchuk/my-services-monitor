@@ -59,8 +59,8 @@
     "slug": "nest2d",
     "status": "up",
     "uptime": "90.48%",
-    "uptimeDay": "42.84%",
-    "uptimeWeek": "6.12%",
+    "uptimeDay": "43.80%",
+    "uptimeWeek": "6.26%",
     "uptimeMonth": "63.28%",
     "uptimeYear": "90.48%",
     "time": 438,
@@ -89,19 +89,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google-added-as-target",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 106,
-    "timeDay": 87,
-    "timeWeek": 152,
-    "timeMonth": 114,
+    "timeDay": 96,
+    "timeWeek": 146,
+    "timeMonth": 113,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-01-29": 0
+      "2025-01-29": 14
     }
   }
 ]
