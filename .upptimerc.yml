@@ -4,11 +4,11 @@ repo: my-services-monitor # The name of this repository
 
 sites:
   - name: MixDrinks
-    url: https://mixdrinks.org/
-  - name: AndroidStory
-    url: https://androidstory.dev/
+    url: https://mixdrinks.org
+  - name: HardAndSoft
+    url: https://hardandsoft.stelmashchuk.dev
   - name: Nest2d
-    url: https://nest2d.online/
+    url: https://nest2d.stelmashchuk.dev
   - name: Google (Added as target)
     url: https://www.google.com
 
@@ -17,7 +17,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Vova Stelmashchuk uptime
   introTitle: "**Upptime** of the Vova Stelmashchuk web service"
-  introMessage: The uptime of [MixDrinks](https://mixdrinks.org/), [Nest2d](https://nest2d.online/), [Android story](https://androidstory.dev/)
+  introMessage: The uptime of [MixDrinks](https://mixdrinks.org/), [Nest2d](https://nest2d.stelmashchuk.dev), [Hard and sfot](https://hardandsoft.stelmashchuk.dev)
   navbar:
     - title: Status
       href: /
