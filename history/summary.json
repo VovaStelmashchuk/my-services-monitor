@@ -33,19 +33,19 @@
     "url": "https://hardandsoft.stelmashchuk.dev",
     "icon": "https://icons.duckduckgo.com/ip3/hardandsoft.stelmashchuk.dev.ico",
     "slug": "hard-and-soft",
-    "status": "down",
-    "uptime": "98.85%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
-    "time": 4636,
-    "timeDay": 657,
-    "timeWeek": 4636,
-    "timeMonth": 4636,
-    "timeYear": 4636,
+    "status": "up",
+    "uptime": "98.39%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "98.39%",
+    "uptimeMonth": "98.39%",
+    "uptimeYear": "98.39%",
+    "time": 3980,
+    "timeDay": 672,
+    "timeWeek": 3980,
+    "timeMonth": 3980,
+    "timeYear": 3980,
     "dailyMinutesDown": {
-      "2025-05-26": 18
+      "2025-05-26": 26
     }
   },
   {
