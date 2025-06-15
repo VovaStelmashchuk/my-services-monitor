@@ -1,7 +1,7 @@
 url: https://nest2d.stelmashchuk.dev
-status: up
-code: 200
-responseTime: 704
-lastUpdated: 2025-06-14T23:00:43.778Z
+status: down
+code: 500
+responseTime: 700
+lastUpdated: 2025-06-15T19:03:27.639Z
 startTime: 2024-10-03T20:47:48.946Z
 generator: Upptime <https://github.com/upptime/upptime>
