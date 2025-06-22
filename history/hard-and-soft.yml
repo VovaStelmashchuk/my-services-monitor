@@ -1,7 +1,7 @@
 url: https://hardandsoft.stelmashchuk.dev
-status: up
-code: 200
-responseTime: 1225
-lastUpdated: 2025-06-21T23:00:44.731Z
+status: down
+code: 500
+responseTime: 574
+lastUpdated: 2025-06-22T18:59:32.153Z
 startTime: 2025-05-25T13:11:32.733Z
 generator: Upptime <https://github.com/upptime/upptime>
