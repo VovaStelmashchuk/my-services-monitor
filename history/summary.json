@@ -79,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/nest2d.stelmashchuk.dev.ico",
     "slug": "nest2d",
     "status": "up",
-    "uptime": "95.88%",
+    "uptime": "95.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.68%",
-    "uptimeYear": "95.88%",
+    "uptimeYear": "95.89%",
     "time": 801,
     "timeDay": 869,
     "timeWeek": 794,
@@ -116,17 +116,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google-added-as-target",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 91,
-    "timeWeek": 92,
-    "timeMonth": 121,
-    "timeYear": 111,
-    "dailyMinutesDown": {}
+    "time": 112,
+    "timeDay": 265,
+    "timeWeek": 135,
+    "timeMonth": 130,
+    "timeYear": 112,
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   }
 ]
